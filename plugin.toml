@@ -4,5 +4,5 @@ description = "Out of a fairytale"
 version = "0.1.0"
 author = "Ionut Rogojan"
 repository = "ionutrogojan/castle"
-themes = ["dark-castle"]
+themes = ["dark-castle.toml"]
 # "light-castle.toml"
