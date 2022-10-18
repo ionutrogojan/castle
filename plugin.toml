@@ -1,0 +1,8 @@
+name = "castle"
+display-name = "Castle"
+description = "Out of a fairytale"
+version = "0.1.0"
+author = "Ionut Rogojan"
+repository = "ionutrogojan/castle"
+themes = ["dark-castle"]
+# "light-castle.toml"
